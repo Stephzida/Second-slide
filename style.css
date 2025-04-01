@@ -1,0 +1,65 @@
+/* footer{
+    background-image: url(image/pexels-kasia-palitava-132623147-10163188.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    width: 100%;
+}
+footer{
+    margin-top: 100px !important;
+} */
+ .footer{
+    background-image: url(image/hideawayimg7.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+ }
+a{
+    text-decoration: none !important;
+    color: white !important;
+    
+}
+a:hover{
+    border-bottom: 2px solid white;
+}
+.social{
+    text-decoration: none !important;
+    color: black !important;
+}
+input[type] {
+    
+    height: 40px;
+    padding: 0 5px;
+    border-radius: 4px;
+}
+input[type]:hover {
+    transform: scale(1,1.2);
+}
+
+.min-vh-80{
+    min-height: 80vh;
+}
+
+.h-30{
+    height: 30vh;
+}
+.h-60{
+    height: 60vh ;
+}
+.h-20{
+    height: 20vh;
+}
+.booking{
+    background-image: url(image/thumb-packages.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  } 
+
+
+
+
+
+
